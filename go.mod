@@ -1,3 +1,3 @@
-module github.com/c0mm4nd/go-hwloc
+module github.com/researchapps/go-hwloc
 
 go 1.21
